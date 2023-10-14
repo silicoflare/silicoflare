@@ -1,7 +1,7 @@
 <h1 align="center">Wassup? I'm SilicoFlare!</h1>
 <p align="center">
-	<a href="https://www.linkedin.com/in/suraj-b-m">LinkedIn</a> • 
-	<a href="/404.html">Resume</a>
+  <img src="https://pesu-badges.vercel.app/api/pesu" width="98px" height="30px" /> 
+  <img src="https://pesu-badges.vercel.app/api/hackerspace" width="98px" height="30px" />
 </p>
 
 - 🔭 I’m currently working on **[Linkaholic](https://github.com/HackerSpace-PESU/linkaholic)**
