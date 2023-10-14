@@ -1,4 +1,4 @@
-<h1 align="center">Wassup? I'm SilicoFlare!</h1>
+<h1 align="center">The name is SilicoFlare!</h1>
 <p align="center">
   <img src="https://pesu-badges.vercel.app/api/pesu" width="98px" height="30px" /> 
   <img src="https://pesu-badges.vercel.app/api/hackerspace" width="98px" height="30px" />
