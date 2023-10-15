@@ -1,10 +1,10 @@
 <h1 align="center">The name is SilicoFlare!</h1>
 <p align="center">
-  <img src="https://pesu-badges.vercel.app/api/pesu" width="98px" height="30px" /> 
-  <img src="https://pesu-badges.vercel.app/api/hackerspace" width="98px" height="30px" />
-  <img src="https://pesu-badges.vercel.app/api/nexus" width="98px" height="30px" />
-  <img src="https://pesu-badges.vercel.app/api/research-et-al" width="98px" height="30px" />
-  <img src="https://pesu-badges.vercel.app/api/qqc-rr" width="98px" height="30px" />
+  <img src='https://pesu-badges-api.vercel.app/badge/pesu' width='98px' height='30px' />
+  <img src='https://pesu-badges-api.vercel.app/badge/hackerspace' width='98px' height='30px' />
+  <img src='https://pesu-badges-api.vercel.app/badge/nexus' width='98px' height='30px' />
+  <img src='https://pesu-badges-api.vercel.app/badge/research-et-al' width='98px' height='30px' />
+  <img src='https://pesu-badges-api.vercel.app/badge/qqc-rr' width='98px' height='30px' />
 </p><br>
 
 - 🔭 I’m currently working on **[Linkaholic](https://github.com/HackerSpace-PESU/linkaholic)**
