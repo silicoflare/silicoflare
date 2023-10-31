@@ -7,7 +7,7 @@
   <img src='https://pesu-badges-api.vercel.app/badge/qqc-rr' width='98px' height='30px' />
 </p><br>
 
-- 🔭 I’m currently working on **[Linkaholic](https://github.com/HackerSpace-PESU/linkaholic)**
+- 🔭 I’m currently working on **[Formista]()**
 - ✨ I specialize in creating **template-like projects**
 - 🌱 I’m currently learning **Frontend Web Development**
 - 💬 Ask me about **Markdown, Python and Webdev**
@@ -49,7 +49,8 @@
 ### Programming Languages
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R">
 </p>
 
 
