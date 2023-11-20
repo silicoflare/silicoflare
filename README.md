@@ -11,7 +11,7 @@
 - ✨ I specialize in creating **template-like projects**
 - 🌱 I’m currently learning **Frontend Web Development**
 - 💬 Ask me about **Markdown, Python and Webdev**
-- ⚡ Fun fact: I'm a great fan of **World History**!
+- ⚡ Fun fact: I'm a great fan of **History and Geopolitics**!
 
 ---
 <br><br>
