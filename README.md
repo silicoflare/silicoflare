@@ -18,8 +18,9 @@
 
 ## Stats
 <p align="center">
-<img alt="User stats" src="https://github-readme-stats.vercel.app/api?username=silicoflare&show_icons=true&theme=transparent"><br>
-<img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silicoflare&theme=transparent">
+  <img alt="User stats" src="https://github-readme-stats.vercel.app/api?username=silicoflare&show_icons=true&theme=transparent">
+  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silicoflare&theme=transparent&layout=compact">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=silicoflare&theme=transparent&border_radius=5.1" alt="GitHub Streak" />
 </p>
 
 ---
@@ -34,16 +35,19 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img alt="Static Badge" src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
 </p>
