@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **club websites**
 - ✨ I specialize in creating **template-like projects**
-- 🌱 I’m currently learning **Frontend Web Development**
+- 🌱 I’m currently learning **Golang and Rust**
 - 💬 Ask me about **Webdev**
 - ⚡ Fun fact: I'm a great fan of **History and Geopolitics**!
 
