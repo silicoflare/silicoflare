@@ -7,7 +7,7 @@
   <img src='https://pesu-badges-api.vercel.app/badge/qqc-rr' width='98px' height='30px' />
 </p><br>
 
-- 🔭 I’m currently working on **[PESU-tix](https://github.com/HackerSpace-PESU/pesu-tix)**
+- 🔭 I’m currently working on **[Pragma](https://github.com/pragmahq)**
 - ✨ I specialize in creating **template-like projects**
 - 🌱 I’m currently learning **Golang and Rust**
 - 💬 Ask me about **Webdev**
@@ -18,9 +18,9 @@
 
 ## Stats
 <p align="center">
-  <img alt="User stats" src="https://github-readme-stats.vercel.app/api?username=silicoflare&show_icons=true&theme=transparent">
-  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silicoflare&theme=transparent&layout=compact">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=silicoflare&theme=transparent&border_radius=5.1" alt="GitHub Streak" />
+  <img alt="User stats" src="https://github-readme-stats.vercel.app/api?username=silicoflare&show_icons=true&theme=transparent"><br>
+  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silicoflare&theme=transparent">
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=silicoflare&theme=transparent&border_radius=5.1" alt="GitHub Streak" />-->
 </p>
 
 ---
