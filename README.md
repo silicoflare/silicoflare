@@ -91,12 +91,20 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
-<!--
 ---
 <br><br>
 
-## My Projects
+## Projects
+[![PESU-tix](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&username=silicoflare&repo=pesu-tix)](https://github.com/silicoflare/pesu-tix)
 
-### Linkaholic
-Linkaholic is a link manager site with high customizability.
--->
+[![Confidant](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&username=silicoflare&repo=confidant)](https://github.com/silicoflare/confidant)
+
+[![safe-cli](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&username=silicoflare&repo=safe-cli)](https://github.com/silicoflare/safe-cli)
+
+[![Oracle](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&username=pragmahq&repo=oracle)](https://github.com/pragmahq/oracle)
+
+[![docker-hadoop](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&username=silicoflare&repo=docker-hadoop)](https://github.com/silicoflare/docker-hadoop)
+
+[![silicodrive](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&username=silicoflare&repo=silicodrive)](https://github.com/silicoflare/silicodrive)
+
+[![formista](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&username=silicoflare&repo=formista)](https://github.com/silicoflare/formista)
