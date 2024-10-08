@@ -95,16 +95,10 @@
 <br><br>
 
 ## Projects
-[![PESU-tix](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&username=silicoflare&repo=pesu-tix)](https://github.com/silicoflare/pesu-tix)
-
-[![Confidant](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&username=silicoflare&repo=confidant)](https://github.com/silicoflare/confidant)
-
-[![safe-cli](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&username=silicoflare&repo=safe-cli)](https://github.com/silicoflare/safe-cli)
-
-[![Oracle](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&username=pragmahq&repo=oracle)](https://github.com/pragmahq/oracle)
-
-[![docker-hadoop](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&username=silicoflare&repo=docker-hadoop)](https://github.com/silicoflare/docker-hadoop)
-
-[![silicodrive](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&username=silicoflare&repo=silicodrive)](https://github.com/silicoflare/silicodrive)
-
-[![formista](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&username=silicoflare&repo=formista)](https://github.com/silicoflare/formista)
+[![PESU-tix](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&description_lines_count=2&username=silicoflare&repo=pesu-tix)](https://github.com/silicoflare/pesu-tix)
+[![Confidant](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&description_lines_count=2&username=silicoflare&repo=confidant)](https://github.com/silicoflare/confidant)
+[![safe-cli](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&description_lines_count=2&username=silicoflare&repo=safe-cli)](https://github.com/silicoflare/safe-cli)
+[![Oracle](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&description_lines_count=2&username=pragmahq&repo=oracle)](https://github.com/pragmahq/oracle)
+[![docker-hadoop](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&description_lines_count=2&username=silicoflare&repo=docker-hadoop)](https://github.com/silicoflare/docker-hadoop)
+[![silicodrive](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&description_lines_count=2&username=silicoflare&repo=silicodrive)](https://github.com/silicoflare/silicodrive)
+[![formista](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&description_lines_count=2&username=silicoflare&repo=formista)](https://github.com/silicoflare/formista)
