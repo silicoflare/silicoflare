@@ -1,17 +1,10 @@
-<h1 align="center">The name is SilicoFlare!</h1>
-<p align="center">
-  <img src='https://pesu-badges-api.vercel.app/badge/pesu' width='98px' height='30px' />
-  <img src='https://pesu-badges-api.vercel.app/badge/hackerspace' width='98px' height='30px' />
-  <img src='https://pesu-badges-api.vercel.app/badge/nexus' width='98px' height='30px' />
-  <img src='https://pesu-badges-api.vercel.app/badge/research-et-al' width='98px' height='30px' />
-  <img src='https://pesu-badges-api.vercel.app/badge/qqc-rr' width='98px' height='30px' />
-</p><br>
+<h1 align="center">It's SilicoFlare!</h1>
 
-- 🔭 I’m currently working on **[Pragma](https://github.com/pragmahq)**
-- ✨ I specialize in creating **template-like projects**
-- 🌱 I’m currently learning **Golang and Rust**
-- 💬 Ask me about **Webdev**
-- ⚡ Fun fact: I'm a great fan of **History and Geopolitics**!
+- 🔭 I’m currently working on **[Pragma](https://github.com/pragmahq)**  
+- ✨ I specialize in **web development and CLI tools**  
+- 🌱 I’m currently learning **Zig**  
+- 💬 Ask me about **Webdev**  
+- ⚡ Fun fact: I'm a great fan of **History and Geopolitics**!  
 
 ---
 <br><br>
