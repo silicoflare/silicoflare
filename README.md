@@ -30,6 +30,7 @@
 <a href="https://github.com/silicoflare/formista"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&description_lines_count=2&username=silicoflare&repo=formista" alt="formista" /></a>
 </p>
 
+<!--
 ---
 <br><br>
 
@@ -40,9 +41,10 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bun-red?style=for-the-badge&logo=bun&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify&logoColor=white">
+  
 </p>
 
 
@@ -90,3 +92,4 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
+-->
