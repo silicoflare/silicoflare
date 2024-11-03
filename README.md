@@ -21,14 +21,14 @@
 
 ## Projects
 <p align="center">
-<a href="https://github.com/silicoflare/rapport"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&description_lines_count=2&username=silicoflare&repo=rapport" alt="PESU-tix" /></a>
-<a href="https://github.com/silicoflare/pesu-tix"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&description_lines_count=2&username=silicoflare&repo=pesu-tix" alt="PESU-tix" /></a>
-<a href="https://github.com/silicoflare/confidant"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&description_lines_count=2&username=silicoflare&repo=confidant" alt="Confidant" /></a>
-<a href="https://github.com/silicoflare/safe-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&description_lines_count=2&username=silicoflare&repo=safe-cli" alt="safe-cli" /></a>
-<a href="https://github.com/Samprith002/vroomify"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&description_lines_count=2&username=Samprith002&repo=vroomify" alt="Vroomify" /></a>
-<a href="https://github.com/silicoflare/docker-hadoop"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&description_lines_count=2&username=silicoflare&repo=docker-hadoop" alt="docker-hadoop" /></a>
-<a href="https://github.com/silicoflare/silicodrive"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&description_lines_count=2&username=silicoflare&repo=silicodrive" alt="silicodrive" /></a>
-<a href="https://github.com/silicoflare/formista"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=true&description_lines_count=2&username=silicoflare&repo=formista" alt="formista" /></a>
+<a href="https://github.com/silicoflare/rapport"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=false&description_lines_count=2&username=silicoflare&repo=rapport" alt="PESU-tix" /></a>
+<a href="https://github.com/silicoflare/pesu-tix"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=false&description_lines_count=2&username=silicoflare&repo=pesu-tix" alt="PESU-tix" /></a>
+<a href="https://github.com/silicoflare/confidant"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=false&description_lines_count=2&username=silicoflare&repo=confidant" alt="Confidant" /></a>
+<a href="https://github.com/silicoflare/safe-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=false&description_lines_count=2&username=silicoflare&repo=safe-cli" alt="safe-cli" /></a>
+<a href="https://github.com/Samprith002/vroomify"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=false&description_lines_count=2&username=Samprith002&repo=vroomify" alt="Vroomify" /></a>
+<a href="https://github.com/silicoflare/docker-hadoop"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=false&description_lines_count=2&username=silicoflare&repo=docker-hadoop" alt="docker-hadoop" /></a>
+<a href="https://github.com/silicoflare/silicodrive"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=false&description_lines_count=2&username=silicoflare&repo=silicodrive" alt="silicodrive" /></a>
+<a href="https://github.com/silicoflare/formista"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=false&description_lines_count=2&username=silicoflare&repo=formista" alt="formista" /></a>
 </p>
 
 <!--
