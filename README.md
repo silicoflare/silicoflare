@@ -1,13 +1,14 @@
 <h1 align="center">It's SilicoFlare!</h1>
 
-- 🔭 I’m currently working on **[Pragma](https://github.com/pragmahq)**  
-- ✨ I specialize in **web development and CLI tools**  
+<!--- 🔭 I’m currently working on **[Pragma](https://github.com/pragmahq)**
+- ✨ I specialize in **fullstack web development and CLI tools**  
 - 🌱 I’m currently learning **Zig**  
 - 💬 Ask me about **Webdev**  
 - ⚡ Fun fact: I'm a great fan of **History and Geopolitics**!  
 
 ---
 <br><br>
+-->
 
 ## Stats
 <p align="center">
