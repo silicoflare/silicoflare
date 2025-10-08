@@ -26,7 +26,7 @@
 
 ## Projects
 <p align="center">
-<a href="https://github.com/silicoflare/rapport"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=false&description_lines_count=2&username=silicoflare&repo=rapport" alt="Rapport" /></a>
+<!-- <a href="https://github.com/silicoflare/rapport"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=false&description_lines_count=2&username=silicoflare&repo=rapport" alt="Rapport" /></a> -->
 <a href="https://github.com/silicoflare/envy"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=false&description_lines_count=2&username=silicoflare&repo=envy" alt="Envy" /></a>
 <a href="https://github.com/silicoflare/pesu-tix"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=false&description_lines_count=2&username=silicoflare&repo=pesu-tix" alt="PESU-tix" /></a>
 <a href="https://github.com/silicoflare/confidant"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=transparent&show_owner=false&description_lines_count=2&username=silicoflare&repo=confidant" alt="Confidant" /></a>
